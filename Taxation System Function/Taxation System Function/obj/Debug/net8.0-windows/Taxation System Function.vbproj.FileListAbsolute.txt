@@ -1,0 +1,16 @@
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Function\Taxation System Function\bin\Debug\net8.0-windows\Taxation System Function.exe
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Function\Taxation System Function\bin\Debug\net8.0-windows\Taxation System Function.deps.json
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Function\Taxation System Function\bin\Debug\net8.0-windows\Taxation System Function.runtimeconfig.json
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Function\Taxation System Function\bin\Debug\net8.0-windows\Taxation System Function.dll
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Function\Taxation System Function\bin\Debug\net8.0-windows\Taxation System Function.pdb
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Function\Taxation System Function\obj\Debug\net8.0-windows\Taxation_System_Function.Form1.resources
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Function\Taxation System Function\obj\Debug\net8.0-windows\Taxation System Function.vbproj.GenerateResource.cache
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Function\Taxation System Function\obj\Debug\net8.0-windows\Taxation System Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Function\Taxation System Function\obj\Debug\net8.0-windows\Taxation System Function.AssemblyInfoInputs.cache
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Function\Taxation System Function\obj\Debug\net8.0-windows\Taxation System Function.AssemblyInfo.vb
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Function\Taxation System Function\obj\Debug\net8.0-windows\Taxation System Function.vbproj.CoreCompileInputs.cache
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Function\Taxation System Function\obj\Debug\net8.0-windows\Taxation System Function.dll
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Function\Taxation System Function\obj\Debug\net8.0-windows\refint\Taxation System Function.dll
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Function\Taxation System Function\obj\Debug\net8.0-windows\Taxation System Function.pdb
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Function\Taxation System Function\obj\Debug\net8.0-windows\Taxation System Function.genruntimeconfig.cache
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Function\Taxation System Function\obj\Debug\net8.0-windows\ref\Taxation System Function.dll

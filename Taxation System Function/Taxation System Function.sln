@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Taxation System Function", "Taxation System Function\Taxation System Function.vbproj", "{206510C3-523B-43C4-B6CE-A067AE4C44CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{206510C3-523B-43C4-B6CE-A067AE4C44CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206510C3-523B-43C4-B6CE-A067AE4C44CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206510C3-523B-43C4-B6CE-A067AE4C44CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206510C3-523B-43C4-B6CE-A067AE4C44CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FD2E8B0-52E4-4DBD-8336-294F5DE6DFF7}
+	EndGlobalSection
+EndGlobal
