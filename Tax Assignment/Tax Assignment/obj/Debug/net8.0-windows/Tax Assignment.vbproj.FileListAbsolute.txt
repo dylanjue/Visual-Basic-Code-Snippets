@@ -1,0 +1,16 @@
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Tax Assignment\Tax Assignment\bin\Debug\net8.0-windows\Tax Assignment.exe
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Tax Assignment\Tax Assignment\bin\Debug\net8.0-windows\Tax Assignment.deps.json
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Tax Assignment\Tax Assignment\bin\Debug\net8.0-windows\Tax Assignment.runtimeconfig.json
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Tax Assignment\Tax Assignment\bin\Debug\net8.0-windows\Tax Assignment.dll
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Tax Assignment\Tax Assignment\bin\Debug\net8.0-windows\Tax Assignment.pdb
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Tax Assignment\Tax Assignment\obj\Debug\net8.0-windows\Tax_Assignment.Form1.resources
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Tax Assignment\Tax Assignment\obj\Debug\net8.0-windows\Tax Assignment.vbproj.GenerateResource.cache
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Tax Assignment\Tax Assignment\obj\Debug\net8.0-windows\Tax Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Tax Assignment\Tax Assignment\obj\Debug\net8.0-windows\Tax Assignment.AssemblyInfoInputs.cache
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Tax Assignment\Tax Assignment\obj\Debug\net8.0-windows\Tax Assignment.AssemblyInfo.vb
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Tax Assignment\Tax Assignment\obj\Debug\net8.0-windows\Tax Assignment.vbproj.CoreCompileInputs.cache
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Tax Assignment\Tax Assignment\obj\Debug\net8.0-windows\Tax Assignment.dll
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Tax Assignment\Tax Assignment\obj\Debug\net8.0-windows\refint\Tax Assignment.dll
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Tax Assignment\Tax Assignment\obj\Debug\net8.0-windows\Tax Assignment.pdb
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Tax Assignment\Tax Assignment\obj\Debug\net8.0-windows\Tax Assignment.genruntimeconfig.cache
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Tax Assignment\Tax Assignment\obj\Debug\net8.0-windows\ref\Tax Assignment.dll
