@@ -1,0 +1,16 @@
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Procedure\Taxation System Procedure\bin\Debug\net8.0-windows\Taxation System Procedure.exe
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Procedure\Taxation System Procedure\bin\Debug\net8.0-windows\Taxation System Procedure.deps.json
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Procedure\Taxation System Procedure\bin\Debug\net8.0-windows\Taxation System Procedure.runtimeconfig.json
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Procedure\Taxation System Procedure\bin\Debug\net8.0-windows\Taxation System Procedure.dll
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Procedure\Taxation System Procedure\bin\Debug\net8.0-windows\Taxation System Procedure.pdb
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Procedure\Taxation System Procedure\obj\Debug\net8.0-windows\Taxation_System_Procedure.Form1.resources
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Procedure\Taxation System Procedure\obj\Debug\net8.0-windows\Taxation System Procedure.vbproj.GenerateResource.cache
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Procedure\Taxation System Procedure\obj\Debug\net8.0-windows\Taxation System Procedure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Procedure\Taxation System Procedure\obj\Debug\net8.0-windows\Taxation System Procedure.AssemblyInfoInputs.cache
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Procedure\Taxation System Procedure\obj\Debug\net8.0-windows\Taxation System Procedure.AssemblyInfo.vb
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Procedure\Taxation System Procedure\obj\Debug\net8.0-windows\Taxation System Procedure.vbproj.CoreCompileInputs.cache
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Procedure\Taxation System Procedure\obj\Debug\net8.0-windows\Taxation System Procedure.dll
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Procedure\Taxation System Procedure\obj\Debug\net8.0-windows\refint\Taxation System Procedure.dll
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Procedure\Taxation System Procedure\obj\Debug\net8.0-windows\Taxation System Procedure.pdb
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Procedure\Taxation System Procedure\obj\Debug\net8.0-windows\Taxation System Procedure.genruntimeconfig.cache
+C:\Users\njuem\Documents\Dylan\Course Materials\Assignments\Taxation System Procedure\Taxation System Procedure\obj\Debug\net8.0-windows\ref\Taxation System Procedure.dll
